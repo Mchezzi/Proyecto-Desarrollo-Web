@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+#ColorTitulo {color: darkgoldenrod;}
+#ColorTitulo {
+    font-size: 100px;
+    border-style: solid;
+    margin: 25px; 
+    padding: 100px;
+    height: 25px;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+}
+
+#ColorTitulo2 {color: darkgoldenrod;}
+#ColorTitulo2 {
+    font-size: 100px;
+    border-style: solid;
+    margin: 50px; 
+    padding: 50px;
+    height: 100px;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+}
+
+#ColorTitulo3 {color: darkgoldenrod;}
+#ColorTitulo3 {
+    font-size: 100px;
+    border-style: solid;
+    margin: 50px; 
+    padding: 50px;
+    height: 100px;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+}
+
+#ColorTitulo4 {color: darkgoldenrod;}
+#ColorTitulo4 {
+    font-size: 100px;
+    border-style: solid;
+    margin: 50px; 
+    padding: 50px;
+    height: 100px;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+}
+
+#ColorTitulo5 {color: darkgoldenrod;}
+#ColorTitulo5 {
+    font-size: 100px;
+    border-style: solid;
+    margin: 50px; 
+    padding: 50px;
+    height: 100px;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+}
+
+#ColorTitulo6 {color: darkgoldenrod;}
+#ColorTitulo6 {
+    font-size: 100px;
+    border-style: solid;
+    margin: 50px; 
+    padding: 50px;
+    height: 100px;
+    text-align: left;
+    align-items: center;
+    justify-content: center;
+}
+
+#Lista {
+    color: coral;
+    font-weight: 700;
+    list-style-type:circle;
+    }
+
+#Subtitulo {
+    color: rgb(148, 108, 9);
+    margin-top: 175px;
+}
+#Subtitulo {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+#DecoHome {
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    margin: 25px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 200px;
+    margin: 5px 10px 12px 15px;
+}
+
+#Pindex {
+    background-image: url("https://babumagazine.com/wp-content/uploads/2019/07/velas-aromaticas-verano-2019-babu-magazine.jpg");
+    height: 500px;  
+    text-align: center;   
+    align-items: center; 
+
+}
+
+.Menuhorizontal{   
+    list-style: none;
+    display: flex;
+    justify-content: normal;
+    text-align:right;
+    margin-top: -250px;
+    position: relative;
+    right: -1050px;
+}
+
+.Menuhorizontal > li > a{
+    display: block;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: darkgoldenrod
+}
+
+.Menuhorizontal > li:hover{
+    background-color: #D9D7CE;
+    border-radius: 5px 5px 5px 5px 5px;
+    border: 0px;
+    box-shadow: 2px 5px 50px 1px rgba(0,0,0,0.5);
+}
+
+.Lista{
+    justify-items: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.contenedorindex{
+    display: grid;
+    background-color: rgb(250, 235, 198);
+
+}
+
+.hijoindex{
+    display: grid;
+    background-color: rgb(250, 235, 198) ;
+}
+
+#ColorTitulo{
+    display: grid;
+    justify-content: left;
+    align-items: start;
+}
+
+.contenedornosotros{
+    display: grid;
+    background-color: rgb(250, 235, 198);
+}
+.hijonosotros{
+    display: grid;
+    background-color: rgb(250, 235, 198) ;
+}
